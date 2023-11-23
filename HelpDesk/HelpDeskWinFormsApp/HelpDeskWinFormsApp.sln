@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpDeskWinFormsApp", "HelpDeskWinFormsApp.csproj", "{5944C2A8-F655-4485-BCC9-8831E01572B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpDesk.Common", "..\HelpDesk.Common\HelpDesk.Common.csproj", "{AB545ADB-5C06-469E-9452-016407972919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5944C2A8-F655-4485-BCC9-8831E01572B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5944C2A8-F655-4485-BCC9-8831E01572B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5944C2A8-F655-4485-BCC9-8831E01572B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5944C2A8-F655-4485-BCC9-8831E01572B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB545ADB-5C06-469E-9452-016407972919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB545ADB-5C06-469E-9452-016407972919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB545ADB-5C06-469E-9452-016407972919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB545ADB-5C06-469E-9452-016407972919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF95EA6-5C7A-4C17-9F7A-45AE3F733A10}
+	EndGlobalSection
+EndGlobal
